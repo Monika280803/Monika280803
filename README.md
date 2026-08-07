@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/monika-senthilkumar-086523326/)">
+<a href="https://www.linkedin.com/in/monika-senthilkumar-086523326/">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
@@ -58,6 +58,11 @@
 
 </a>
 
+</p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Monika280803/Monika280803/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 <p align="center">
 
